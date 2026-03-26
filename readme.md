@@ -4,3 +4,4 @@ The best ways are
 -eat
 -sleep
 -code
+-repeat
